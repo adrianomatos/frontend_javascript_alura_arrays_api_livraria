@@ -8,6 +8,7 @@
 - Sort: ordenando a lista
 - Reduce: um único valor
 - Manipulação do DOM com base nos métodos de array
+- Link no Vercel: https://api-livraria-gamma.vercel.app/
 <img src="https://github.com/adrianomatos/frontend_javascript_alura_arrays_api_livraria/blob/main/ARRAYS_API_LIVRARIA.png" alt="Print do Projeto">
 
 ### GUIA DO MOCHILEIRO JAVASCRIPT
